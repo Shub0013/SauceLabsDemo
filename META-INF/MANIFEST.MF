@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: nopCommerceV001_Cucumber
+Bundle-SymbolicName: nopCommerceV001_Cucumber
+Bundle-Version: 1.0.0.qualifier
+Export-Package: pageObjects,
+ stepDefinitions,
+ testRunner,
+ utilities

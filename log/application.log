@@ -1,0 +1,1210 @@
+2019-07-05 13:55:57,822 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 13:55:57,969 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 13:56:00,755 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 13:56:01,145 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 13:56:28,323 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 13:56:28,323 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 13:56:36,089 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 13:56:40,905 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 13:56:44,036 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 13:56:44,061 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 13:56:46,027 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 13:56:46,398 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 13:57:02,683 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-05 13:57:06,466 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 13:57:10,328 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 13:57:10,334 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 13:57:12,782 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 13:57:13,176 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 13:57:27,317 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-05 13:57:31,062 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 13:57:34,432 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 13:57:34,433 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 13:57:36,435 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 13:57:36,943 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 13:57:44,206 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 13:57:47,229 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 13:57:51,726 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 13:57:54,737 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 13:57:57,909 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 13:57:57,914 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 13:57:59,969 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 13:58:00,465 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 13:58:08,003 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 13:58:11,023 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 13:58:15,525 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 13:58:18,535 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 13:58:21,840 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 13:58:21,847 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 13:58:23,862 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 13:58:24,313 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 13:58:28,159 [main] INFO nopComemrce - ******** Login passed*********
+2019-07-05 14:17:12,222 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:17:12,318 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:17:14,970 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:17:15,462 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:17:34,617 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 14:17:34,617 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 14:17:42,547 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 14:17:47,047 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:17:50,486 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:17:50,489 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:17:54,301 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:17:54,678 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:18:08,352 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-05 14:18:12,273 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:18:15,657 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:18:15,660 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:18:17,594 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:18:17,992 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:18:31,959 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-05 14:18:35,696 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:19:16,787 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:19:16,919 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:19:18,835 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:19:19,211 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:19:38,915 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 14:19:38,916 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 14:19:46,823 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 14:19:52,434 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:19:58,732 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:19:58,745 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:19:59,941 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:20:00,125 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:20:16,480 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-05 14:20:20,198 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:20:26,171 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:20:26,215 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:20:27,670 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:20:27,849 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:20:43,298 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-05 14:20:47,174 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:27:03,708 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:27:03,779 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:27:06,164 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:27:06,604 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:27:24,703 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 14:27:24,703 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 14:27:32,594 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 14:27:37,350 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:27:41,230 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:27:41,321 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:27:43,949 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:27:44,395 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:27:51,763 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:27:54,784 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 14:27:59,283 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:28:02,292 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:30:27,546 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:30:27,594 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:30:30,020 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:30:30,418 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:30:49,962 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 14:30:49,962 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 14:30:57,876 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 14:31:02,279 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:31:08,207 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:31:08,210 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:31:10,785 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:31:11,240 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:31:28,523 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-05 14:31:32,600 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:31:35,981 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:31:35,984 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:31:38,176 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:31:38,548 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:31:53,870 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-05 14:31:57,708 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:32:01,203 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:32:01,206 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:32:03,184 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:32:03,539 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:32:11,294 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:32:14,307 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 14:32:18,812 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:32:21,821 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:32:25,094 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:32:25,096 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:32:27,110 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:32:27,496 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:32:34,967 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:32:37,978 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 14:32:42,440 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:32:45,449 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:32:48,746 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:32:48,749 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:32:50,839 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:32:51,353 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:32:55,342 [main] INFO nopComemrce - ******** Login passed*********
+2019-07-05 14:49:32,245 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:49:32,298 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:49:34,991 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:49:35,312 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:49:53,757 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 14:49:53,758 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 14:50:01,344 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 14:50:05,440 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:50:08,519 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:50:08,521 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:50:10,798 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:50:11,089 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:50:25,413 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-05 14:50:28,939 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:50:31,949 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:50:31,953 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:50:34,239 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:50:34,567 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:50:47,446 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-05 14:50:51,116 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:50:54,102 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:50:54,110 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:50:56,322 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:50:56,597 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:51:02,995 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:51:06,008 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 14:51:10,414 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:51:13,430 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:51:16,483 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:51:16,485 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:51:18,602 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:51:18,898 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:51:25,405 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:51:28,416 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 14:51:32,916 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:51:35,933 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 14:51:39,137 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 14:51:39,140 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 14:51:41,132 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 14:51:41,447 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 14:51:48,205 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:51:51,214 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 14:51:55,609 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 14:51:58,622 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 17:17:27,678 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 17:17:27,721 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 17:17:32,362 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 17:17:32,662 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 17:17:54,557 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-05 17:17:54,557 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-05 17:18:02,283 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-05 17:18:06,827 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 17:18:09,775 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 17:18:09,777 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 17:18:12,574 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 17:18:12,862 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 17:18:28,989 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-05 17:18:32,749 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 17:18:35,732 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 17:18:35,735 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 17:18:38,325 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 17:18:38,599 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 17:19:32,149 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-05 17:19:35,898 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 17:19:39,002 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 17:19:39,004 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 17:19:45,653 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 17:19:45,994 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 17:19:53,959 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 17:19:57,023 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 17:20:01,713 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 17:20:04,724 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 17:20:08,931 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 17:20:08,933 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 17:20:12,202 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 17:20:12,502 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 17:20:20,820 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 17:20:23,831 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 17:20:28,428 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 17:20:31,441 [main] INFO nopComemrce - ********closing browser********
+2019-07-05 17:20:34,736 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-05 17:20:34,740 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-05 17:20:37,119 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-05 17:20:37,457 [main] INFO nopComemrce - ******** started login*********
+2019-07-05 17:20:44,412 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 17:20:47,423 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-05 17:20:51,938 [main] INFO nopComemrce - ******** Login failed*********
+2019-07-05 17:20:54,958 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:46:53,436 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:46:53,591 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:46:56,753 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:46:57,143 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:47:22,048 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-08 13:47:22,049 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-08 13:47:29,932 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-08 13:47:34,538 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:47:37,681 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:47:37,706 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:48:09,551 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:48:09,863 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:48:30,430 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-08 13:48:34,180 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:48:37,321 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:48:37,323 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:48:39,252 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:48:39,654 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:48:53,689 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-08 13:48:57,506 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:49:00,625 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:49:00,627 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:49:02,586 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:49:03,001 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:49:11,434 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:49:14,455 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 13:49:19,024 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:49:22,039 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:49:25,158 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:49:25,161 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:49:27,090 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:49:27,446 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:49:34,687 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:49:37,699 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 13:49:42,129 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:49:45,142 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:49:48,196 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:49:48,204 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:49:50,115 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:49:50,679 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:49:59,438 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:50:02,449 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 13:50:06,981 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:50:09,994 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:55:34,963 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:55:35,046 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:55:37,570 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:55:38,049 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:56:00,656 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-08 13:56:00,656 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-08 13:56:08,557 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-08 13:56:13,736 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:56:17,068 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:56:17,070 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:56:20,878 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:56:21,367 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:56:34,748 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-08 13:56:38,584 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:56:41,888 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:56:41,896 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:56:43,910 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:56:44,254 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:56:58,314 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-08 13:57:01,939 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:57:04,990 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:57:05,008 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:57:07,039 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:57:07,472 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:57:16,095 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:57:19,116 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 13:57:23,442 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:57:26,455 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:57:29,462 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:57:29,465 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:57:31,614 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:57:32,002 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:57:40,323 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:57:43,335 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 13:57:47,768 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:57:50,790 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 13:57:53,814 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 13:57:53,816 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 13:57:55,739 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 13:57:56,062 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 13:58:04,614 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:58:07,627 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 13:58:12,068 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 13:58:15,084 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:01:48,520 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:01:48,588 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:01:50,993 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:01:51,310 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:02:09,678 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-08 14:02:09,678 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-08 14:02:24,932 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:02:24,935 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:02:27,309 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:02:27,616 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:02:46,202 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:02:46,205 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:02:48,286 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:02:48,612 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:03:01,865 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-08 14:03:05,464 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:03:08,513 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:03:08,533 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:03:10,493 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:03:10,784 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:03:17,977 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:03:26,633 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:03:26,635 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:03:28,743 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:03:31,142 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:03:38,626 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:03:38,629 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:03:40,659 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:03:41,013 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:03:47,951 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:03:50,961 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 14:03:55,420 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:03:58,429 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:12:03,558 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:12:03,607 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:12:06,291 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:12:06,671 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:12:28,416 [main] INFO nopComemrce - ********Adding new customer*********
+2019-07-08 14:12:28,417 [main] INFO nopComemrce - ********Proving customer details*********
+2019-07-08 14:12:36,563 [main] INFO nopComemrce - ********Saving customer data*********
+2019-07-08 14:12:41,111 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:12:44,172 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:12:44,175 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:12:46,201 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:12:47,416 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:13:01,875 [main] INFO nopComemrce - ********Searching customer by email id*********
+2019-07-08 14:13:05,850 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:13:09,258 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:13:09,261 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:13:11,234 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:13:11,578 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:13:25,624 [main] INFO nopComemrce - ********Searching customer by Name*********
+2019-07-08 14:13:29,391 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:13:32,420 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:13:32,423 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:13:34,370 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:13:34,769 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:13:42,160 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:13:45,180 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 14:13:49,577 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:13:52,589 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:13:55,760 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:13:55,762 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:13:57,811 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:13:58,187 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:14:05,630 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:14:08,647 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 14:14:13,207 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:14:16,216 [main] INFO nopComemrce - ********closing browser********
+2019-07-08 14:14:19,289 [main] INFO nopComemrce - ******** Launching browser*********
+2019-07-08 14:14:19,301 [main] INFO nopComemrce - ******** Opening URL*********
+2019-07-08 14:14:21,633 [main] INFO nopComemrce - ******** Providing login details*********
+2019-07-08 14:14:22,025 [main] INFO nopComemrce - ******** started login*********
+2019-07-08 14:14:29,727 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:14:32,741 [main] INFO nopComemrce - ******** Click on logout link*********
+2019-07-08 14:14:37,510 [main] INFO nopComemrce - ******** Login Passed*********
+2019-07-08 14:14:40,527 [main] INFO nopComemrce - ********closing browser********
+2022-01-19 15:43:27,128 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 15:43:27,238 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 15:43:30,826 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 15:43:31,259 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 15:43:37,511 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 15:43:37,520 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 15:43:41,363 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 15:43:41,820 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 15:43:48,523 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 15:43:48,528 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 15:43:51,082 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 15:43:51,504 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 15:43:58,073 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 15:43:58,082 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 15:44:01,566 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 17:01:38,904 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 17:01:39,168 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 17:01:40,766 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 17:01:46,886 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 17:01:46,893 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 17:01:47,892 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 19:53:57,389 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 19:53:57,454 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 19:53:58,828 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 19:56:13,869 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 19:56:13,916 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 19:56:14,641 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 19:59:34,774 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 19:59:34,828 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 19:59:35,619 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:07:20,898 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:07:21,031 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:07:22,078 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:09:34,402 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:09:34,510 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:09:35,718 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:30:45,326 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:30:45,434 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:30:46,751 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:31:49,311 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:31:49,407 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:31:50,560 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:37:39,123 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:37:39,219 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:37:40,271 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:39:42,199 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:39:42,355 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:39:43,484 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:40:55,157 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:40:55,342 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:40:56,595 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:40:57,312 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 20:42:38,127 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:42:38,267 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:42:39,847 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:42:40,640 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 20:42:43,978 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 20:45:48,599 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:53:14,977 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 20:53:15,061 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 20:53:16,193 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 20:53:16,912 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 20:53:20,330 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 20:53:23,403 [main] INFO nopComemrce - ******** Click on logout link*********
+2022-01-19 22:51:57,493 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 22:51:57,640 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 22:51:59,092 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 22:51:59,740 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 22:52:03,101 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:12:56,268 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:12:56,386 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:12:57,612 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:12:58,533 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:13:01,990 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:13:05,010 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:17:23,451 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:17:23,548 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:17:24,600 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:17:25,504 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:17:28,900 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:17:31,922 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:18:54,398 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:18:54,502 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:18:55,622 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:18:56,217 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:18:59,451 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:19:02,471 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:19:50,773 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:19:50,854 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:19:51,992 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:19:52,581 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:19:55,996 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:19:59,045 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:22:15,615 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:22:15,723 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:22:17,183 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:22:17,725 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:22:21,054 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:22:24,078 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:26:57,690 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:26:57,768 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:26:58,891 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:26:59,522 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:27:02,741 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:27:05,760 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:28:46,871 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-19 23:28:46,954 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-19 23:28:47,852 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-19 23:28:48,580 [main] INFO nopComemrce - ******** started login*********
+2022-01-19 23:28:52,156 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-19 23:28:55,175 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-19 23:28:57,283 [main] INFO nopComemrce - ******** Click on logout link*********
+2022-01-20 11:19:45,899 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 11:19:45,949 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 11:19:46,907 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 11:19:47,260 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 11:19:50,413 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 11:19:53,424 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 11:19:55,491 [main] INFO nopComemrce - ******** Click on logout link*********
+2022-01-20 11:25:42,183 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 11:25:42,447 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 11:25:43,255 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 11:25:43,696 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 11:25:47,044 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 11:25:50,062 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 11:25:52,144 [main] INFO nopComemrce - ******** Click on logout link*********
+2022-01-20 11:28:46,934 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 11:28:47,082 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 11:28:47,832 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 11:28:48,209 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 11:28:51,490 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 11:28:54,510 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 11:28:56,570 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 11:39:12,786 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 11:39:12,840 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 11:39:13,553 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 11:39:13,865 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 11:39:17,130 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 11:39:20,148 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:09:21,192 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:09:21,207 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:09:22,294 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:09:22,578 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 13:09:25,810 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 13:09:28,820 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:09:29,381 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 13:29:00,023 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:29:00,043 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:29:01,016 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:29:01,409 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 13:29:04,634 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 13:29:07,646 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:29:08,213 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 13:29:08,329 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 13:29:08,404 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 13:29:08,815 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 13:29:08,903 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 13:47:14,618 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:47:14,755 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:47:15,509 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:47:15,864 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 13:47:19,068 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 13:47:20,081 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:47:20,644 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 13:48:18,175 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:48:18,312 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:48:19,064 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:48:19,466 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 13:48:22,738 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 13:48:25,747 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:48:26,312 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 13:49:19,683 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:49:19,818 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:49:20,570 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:49:20,923 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 13:49:24,189 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 13:49:27,214 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:49:27,781 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 13:49:27,902 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 13:49:27,973 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 13:49:28,800 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 13:49:28,893 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 13:56:27,361 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:56:27,508 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:56:28,343 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:56:28,722 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 13:56:31,956 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 13:56:34,969 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 13:56:35,533 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 13:56:35,667 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 13:56:35,739 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 13:56:36,560 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 13:56:36,660 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 13:59:58,095 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 13:59:58,229 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 13:59:58,969 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 13:59:59,341 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 14:00:02,499 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 14:00:05,510 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 14:00:06,076 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 14:00:06,297 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 14:00:06,369 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 14:00:07,235 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 14:00:07,329 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 14:00:57,074 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 14:00:57,224 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 14:00:57,994 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 14:00:58,339 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 14:01:01,600 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 14:01:04,615 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 14:01:05,175 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 14:01:05,323 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 14:01:05,391 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 14:01:06,237 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 14:01:06,323 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 14:01:06,872 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 15:29:36,437 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 15:29:36,697 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 15:29:37,950 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 15:29:38,553 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 15:29:41,824 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 15:29:44,874 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 15:29:45,508 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 15:29:45,718 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 15:29:45,840 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 15:29:46,904 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 15:29:47,086 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 15:29:47,962 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 16:51:31,900 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 16:51:32,149 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 16:51:33,415 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 16:51:34,000 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 16:51:37,324 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 16:52:37,222 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 16:52:37,253 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 16:52:38,804 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 16:52:39,317 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 16:52:42,445 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 16:52:49,303 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 16:52:49,305 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 16:52:50,255 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 16:52:50,900 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 16:52:54,441 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 16:52:57,463 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 16:52:58,065 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 16:52:58,277 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 16:52:58,389 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 16:52:59,505 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 16:52:59,647 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 16:53:00,434 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 16:53:52,000 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 16:53:52,228 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 16:53:53,364 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 16:53:53,940 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 16:53:57,064 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 16:58:43,685 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 16:58:43,712 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 16:58:44,769 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 16:58:45,341 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 16:58:55,438 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 16:58:55,441 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 16:58:57,436 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 16:58:58,076 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 16:59:01,478 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 16:59:04,499 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 16:59:05,115 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 16:59:05,333 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 16:59:05,438 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 16:59:06,607 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 16:59:06,761 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 16:59:07,571 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 17:08:49,525 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:08:49,556 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:08:50,753 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:08:51,315 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:08:54,444 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-20 17:08:54,522 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 17:09:02,558 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:09:02,561 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:09:03,763 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:09:04,343 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:09:07,717 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 17:09:10,732 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 17:09:11,335 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 17:09:11,523 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 17:09:11,629 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 17:09:12,818 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 17:09:12,969 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 17:09:13,681 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 17:21:22,217 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:21:22,570 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:21:23,613 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:21:24,204 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:21:27,354 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-20 17:21:27,425 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 17:21:35,191 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:21:35,195 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:21:36,363 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:21:37,077 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:21:40,330 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 17:21:43,348 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 17:21:43,951 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 17:21:44,154 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 17:21:44,258 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 17:21:45,338 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 17:21:45,525 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 17:21:46,341 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 17:42:51,087 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:42:51,408 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:42:52,527 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:42:53,071 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:42:56,568 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 17:42:59,615 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 17:43:00,302 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 17:43:00,675 [main] INFO nopComemrce - ********CheckOut********
+2022-01-20 17:43:00,930 [main] INFO nopComemrce - ********Enter User Details********
+2022-01-20 17:43:02,391 [main] INFO nopComemrce - ********Continue to Checkout********
+2022-01-20 17:43:02,520 [main] INFO nopComemrce - ********Finish the Checkout********
+2022-01-20 17:43:03,252 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 17:43:12,942 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:43:18,910 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:43:25,291 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:43:32,681 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:43:32,688 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:47:30,394 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:47:30,646 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:47:31,882 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:47:32,465 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:47:35,755 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 17:47:38,828 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-20 17:47:39,437 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-20 17:56:13,597 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 17:56:14,080 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 17:56:16,380 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 17:56:17,236 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 17:56:20,629 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 18:21:02,299 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 18:21:02,573 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 18:21:03,820 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 18:21:04,841 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 18:21:08,490 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 19:12:20,854 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 19:12:21,011 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 19:12:21,889 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 19:12:22,311 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 19:12:25,588 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 19:13:44,654 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 19:13:44,856 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 19:13:45,838 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 19:13:46,287 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 19:13:49,502 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 19:13:52,918 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 19:15:44,178 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 19:15:44,354 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 19:15:45,304 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 19:15:45,760 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 19:15:49,087 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 19:15:52,489 [main] INFO nopComemrce - ********closing browser********
+2022-01-20 19:29:13,293 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-20 19:29:13,441 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-20 19:29:14,869 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-20 19:29:15,406 [main] INFO nopComemrce - ******** started login*********
+2022-01-20 19:29:18,841 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-20 19:29:22,247 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 11:37:28,266 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 11:37:28,424 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 11:37:29,470 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 11:37:29,811 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 11:37:33,023 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 11:37:36,044 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 11:42:55,220 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 11:42:55,390 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 11:42:56,806 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 11:42:57,172 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 11:43:00,401 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 11:43:03,412 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 11:53:50,130 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 11:53:50,463 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 11:53:52,102 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 11:53:52,607 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 11:53:56,252 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 11:53:59,640 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:11:28,342 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:11:28,654 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:11:29,870 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:11:30,365 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:11:34,061 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:11:37,443 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:11:38,419 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:11:38,703 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:11:44,260 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:11:44,474 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:11:45,575 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:11:46,119 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:11:49,764 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:11:53,622 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:11:59,142 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:11:59,318 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:12:00,309 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:12:00,813 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:12:04,504 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:12:08,579 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:12:13,863 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:12:14,071 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:12:14,971 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:12:15,532 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:12:18,836 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:12:19,075 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:17:42,393 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:17:42,576 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:17:43,295 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:17:43,703 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:17:46,900 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:17:49,911 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:17:50,489 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:17:50,615 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:17:56,023 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:17:56,026 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:17:56,840 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:17:57,200 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:18:00,493 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:18:03,629 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:18:09,117 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:18:09,119 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:18:10,406 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:18:10,795 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:18:13,987 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:18:17,268 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:18:22,737 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:18:22,742 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:18:23,824 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:18:24,189 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:18:27,275 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:18:27,309 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:20:30,616 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:20:30,633 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:20:31,373 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:20:31,803 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:20:35,023 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:20:38,032 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:20:38,602 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:20:42,754 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:20:42,755 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:20:43,462 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:20:43,843 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:20:47,191 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:20:55,415 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:20:55,420 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:20:56,496 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:20:56,960 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:21:00,253 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:21:08,605 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:21:08,606 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:21:09,398 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:21:09,734 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:21:12,821 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:23:17,180 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:23:17,201 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:23:17,938 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:23:18,261 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:23:21,435 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:23:24,447 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:23:25,023 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:23:29,401 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:23:29,403 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:23:30,301 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:23:30,730 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:23:34,128 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:23:42,372 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:23:42,373 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:23:43,458 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:23:43,879 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:23:47,147 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:23:55,499 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:23:55,501 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:23:56,383 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:23:56,800 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:24:00,010 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:29:07,716 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:29:07,734 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:29:08,636 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:29:09,012 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:29:12,231 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:29:15,245 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:29:15,802 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:29:15,917 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:29:20,011 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:29:20,013 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:29:20,836 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:29:21,123 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:29:24,381 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:29:27,507 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:29:31,652 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:29:31,653 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:29:32,632 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:29:33,002 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:29:36,202 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:29:39,466 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:29:43,644 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:29:43,647 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:29:44,917 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:29:45,224 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:29:48,315 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:29:48,352 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:32:44,780 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:32:44,802 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:32:45,573 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:32:45,970 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:32:49,148 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:32:52,165 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:32:52,726 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:32:52,852 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:32:58,061 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:32:58,063 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:32:58,890 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:32:59,320 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:33:02,527 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:33:05,654 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:33:11,629 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:33:11,631 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:33:12,603 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:33:12,941 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:33:16,135 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:33:19,396 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:33:24,591 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:33:24,592 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:33:25,361 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:33:25,740 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:33:28,814 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:33:28,848 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:34:48,776 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:34:48,921 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:34:49,640 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:34:50,012 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:34:53,194 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:34:56,209 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 15:34:56,806 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 15:34:56,917 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:35:01,084 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:35:01,086 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:35:01,804 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:35:02,253 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:35:05,537 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:35:08,656 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:35:12,956 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:35:12,958 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:35:13,740 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:35:14,131 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:35:17,293 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 15:35:20,607 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 15:35:24,822 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 15:35:24,824 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 15:35:25,511 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 15:35:25,848 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 15:35:28,926 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 15:35:28,965 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 16:57:59,521 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 16:57:59,839 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 16:58:03,069 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 16:58:03,737 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 16:58:06,904 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 16:58:09,932 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:17:47,258 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:17:47,389 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:17:48,253 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:17:48,624 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:17:51,903 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:17:54,916 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:17:55,493 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 21:18:06,196 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:18:06,199 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:18:07,053 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:18:07,467 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:18:10,729 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:18:14,056 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:18:21,067 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:18:21,069 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:18:22,850 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:18:23,133 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:18:26,376 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:18:29,843 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:18:34,136 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:18:34,138 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:18:35,163 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:18:35,657 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:18:38,734 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 21:18:38,767 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:32:14,653 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:32:14,854 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:32:15,601 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:32:15,980 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:32:19,145 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:32:22,168 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:32:22,731 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 21:32:34,319 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:32:34,321 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:32:35,084 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:32:35,448 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:32:38,704 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:32:42,066 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:32:49,059 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:32:49,061 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:32:49,917 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:32:50,366 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:32:53,662 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:32:57,126 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:33:03,799 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:33:03,802 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:33:04,730 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:33:05,086 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:33:08,164 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 21:33:08,201 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:38:09,693 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:38:09,896 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:38:10,778 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:38:11,187 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:38:14,414 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:38:17,435 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:38:18,002 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 21:38:20,116 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:38:24,482 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:38:24,484 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:38:25,137 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:38:25,530 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:38:28,841 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:38:33,961 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:38:38,094 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:38:38,096 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:38:38,880 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:38:39,242 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:38:42,467 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:38:47,727 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:38:54,431 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:38:54,437 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:38:55,373 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:38:55,742 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:38:58,819 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 21:38:58,855 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:44:21,621 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:44:21,778 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:44:22,527 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:44:22,913 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:44:26,153 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:44:29,174 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:44:29,752 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 21:44:31,884 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:44:38,306 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:44:38,309 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:44:39,266 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:44:39,619 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:44:42,884 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:44:48,004 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:44:54,788 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:44:54,790 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:44:55,690 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:44:56,055 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:44:59,261 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:45:04,526 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:45:10,391 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:45:10,394 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:45:11,392 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:45:11,787 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:45:14,900 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 21:45:14,936 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:48:24,399 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:48:24,531 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:48:25,296 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:48:25,697 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:48:28,910 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:48:31,935 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:48:32,502 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 21:48:34,622 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:48:38,892 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:48:38,893 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:48:39,619 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:48:40,024 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:48:43,239 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:48:48,353 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:48:52,524 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:48:52,528 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:48:53,391 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:48:53,787 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:48:56,969 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:49:02,275 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:49:06,549 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:49:06,552 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:49:07,366 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:49:07,723 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:49:10,802 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 21:49:10,839 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:52:09,614 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:52:09,733 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:52:10,430 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:52:10,795 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:52:13,940 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:52:16,964 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 21:52:17,531 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 21:52:19,645 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:52:25,998 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:52:26,002 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:52:26,676 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:52:27,036 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:52:30,210 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:52:35,328 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:52:41,610 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:52:41,614 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:52:42,459 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:52:42,828 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:52:46,060 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 21:52:51,317 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 21:52:58,046 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 21:52:58,049 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 21:52:58,875 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 21:52:59,382 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 21:53:02,463 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 21:53:02,502 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:00:57,765 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:00:57,986 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:00:58,972 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:00:59,717 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:01:03,271 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:01:06,295 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 22:01:06,427 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 22:01:08,634 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:01:15,692 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:01:15,699 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:01:17,304 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:01:17,888 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:01:21,180 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:01:24,391 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:01:31,830 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:01:31,837 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:01:33,053 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:01:33,757 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:01:37,029 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:01:40,598 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:01:48,329 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:01:48,334 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:01:50,147 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:01:50,843 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:01:53,967 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 22:01:54,018 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:02:42,220 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:02:42,445 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:02:43,514 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:02:44,131 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:02:47,609 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:02:50,644 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 22:02:50,811 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 22:02:52,995 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:03:00,956 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:03:00,960 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:03:02,159 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:03:02,929 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:03:06,429 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:03:09,635 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:03:16,392 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:03:16,403 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:03:17,418 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:03:18,159 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:03:21,466 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:03:24,997 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:03:32,859 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:03:32,865 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:03:34,031 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:03:34,623 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:03:37,773 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 22:03:37,849 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:16:00,917 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:16:01,200 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:16:02,455 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:16:03,058 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:16:06,347 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:16:09,391 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 22:16:09,523 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 22:16:11,724 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:16:19,387 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:16:19,391 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:16:20,474 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:16:21,170 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:16:24,681 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:16:27,891 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:16:35,579 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:16:35,584 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:16:36,898 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:16:37,521 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:16:41,092 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:16:44,658 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:16:51,294 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:16:51,299 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:16:52,934 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:16:53,599 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:16:56,729 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 22:16:56,776 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:18:24,229 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:18:24,494 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:18:26,524 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:18:27,170 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:18:30,410 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:18:33,434 [main] INFO nopComemrce - ********Add product to Cart********
+2022-01-21 22:18:33,578 [main] INFO nopComemrce - ********Validate Added products to Cart********
+2022-01-21 22:18:35,767 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:18:43,994 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:18:44,001 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:18:45,221 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:18:45,844 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:18:48,974 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:18:59,083 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:18:59,088 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:19:00,816 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:19:01,489 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:19:04,917 [main] INFO nopComemrce - ******** Login Passed*********
+2022-01-21 22:19:08,418 [main] INFO nopComemrce - ********closing browser********
+2022-01-21 22:19:15,629 [main] INFO nopComemrce - ******** Launching browser*********
+2022-01-21 22:19:15,633 [main] INFO nopComemrce - ******** Opening URL*********
+2022-01-21 22:19:17,093 [main] INFO nopComemrce - ******** Providing login details*********
+2022-01-21 22:19:17,657 [main] INFO nopComemrce - ******** started login*********
+2022-01-21 22:19:20,773 [main] INFO nopComemrce - ********Validate Error Msg on Invalid Credential********
+2022-01-21 22:19:20,847 [main] INFO nopComemrce - ********closing browser********
